@@ -1,0 +1,55 @@
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+; If you have contributed to the project, please feel free to add yourself to 
+; these credits. Contributors may list: names, aliases, a short quote, a
+; comment, or any combination therein which fits reasonably on a single line.
+; Please keep all entries professional and family-friendly.
+;
+; Upon first launch, this file is copied to the application data directory for
+; the MUD instance. It can be modified from there as your game lives and grows,
+; for instance, to acknowledge game instance administrators, contributions from
+; builders, and so on.
+; These credits can be viewed by players, in-game, with the "credits" command.
+; 
+; Members of the WheelMUD Development Team include the following people:
+
+<%cyan%>==== ACTIVE CHAMPION ====<%n%>:
+* David Rieman (Karak)
+
+<%cyan%>==== ACTIVE DEVELOPERS ====<%n%>:
+* [Your Name Here?]
+
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+; We sincerely give our thanks to all members of the WheelMUD Development Team
+; who have moved on to other things. This includes, but is not limited to, the
+; following people:
+
+<%cyan%>==== RETIRED CHAMPION ====<%n%>:
+* Hector Sosa, Jr (Fastalanasa)
+
+<%cyan%>==== RETIRED DEVELOPERS ====<%n%>:
+* Aaron Rich (aaronjrich)
+* Brian Nelson (bengecko)
+* Bill Lewis, Jr (Tek)
+* Chad Jessup (Shabubu)
+* Dan Rose (Nostradamus)
+* Daniel (Ith'drak)
+* Daren Fox (Foxedup)
+* David Ray (IRay)
+* Duane King (honestduane / Feverdream)
+* James McNamus (James)
+* Jason F. (JFed)
+* Jeremy Holland
+* Jesse Miller (Taliesen)
+* Joseph Roberts (Pure)
+* Justin LeCheminant (jlechem)
+* Rebekka Williamsdóttir (octave-syndicate)
+* Ted Johansson (Dremni)
+* Tim Bateson (Saquivor)
+
+<%cyan%>==== RETIRED BUILDERS (STOCK AREAS) ====<%n%>:
+* Daren Fox (Foxedup)
+
+<%cyan%>==== RETIRED CONTRIBUTORS ====<%n%>:
+* Alincor
+* JT Bowlin (SlowReflex)
+* Troy Fisher (Ashon)
